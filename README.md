@@ -14,6 +14,7 @@ The project combines data cleaning, exploratory analysis, multivariate modeling,
 - Exploratory data analysis and visualization
 - Principal Component Analysis (PCA) to identify dominant dimensions of variation
 - Statistical modeling to explore relationships between social factors and health outcomes
+- Key visualizations from exploratory analysis are included in `analysis/02_exploratory_visualizations/` and interactive plots can be explored in the Shiny app.
 
 ## Shiny Web Application
 An interactive Shiny application allows users to:
